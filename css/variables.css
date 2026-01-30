@@ -1,0 +1,8 @@
+:root {
+    --font-body-family: "Aeonik", sans-serif;
+    --font-nb-architekt: "Montserrat", sans-serif;
+    --font-body-style: normal;
+    --font-body-weight: 400;
+    --font-body-scale: 1.0;
+    --page-width: 150rem;
+}

@@ -1,0 +1,22 @@
+.header_top {
+    background: #a40011;
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+
+    padding: 8px 0 9px 0;
+    position: relative;
+    z-index: 3;
+}
+
+.header_top-text {
+    font-family: var(--font-nb-architekt);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: .28px;
+    text-transform: uppercase;
+    color: inherit;
+    text-align: center;
+}
