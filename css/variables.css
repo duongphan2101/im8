@@ -4,5 +4,28 @@
     --font-body-style: normal;
     --font-body-weight: 700;
     --font-body-scale: 1.0;
+
     --page-width: 150rem;
+
+    --color-background: 255, 255, 255;
+    --gradient-background: #ffffff;
+    --color-foreground: 80, 0, 11;
+    --color-background-contrast: 191, 191, 191;
+    --color-shadow: 80, 0, 11;
+    --color-button: 164, 0, 17;
+    --color-button-text: 255, 255, 255;
+    --color-secondary-button: 255, 255, 255;
+    --color-secondary-button-text: 164, 0, 17;
+    --color-link: 164, 0, 17;
+    --color-badge-foreground: 80, 0, 11;
+    --color-badge-background: 255, 255, 255;
+    --color-badge-border: 80, 0, 11;
+    --payment-terms-background-color: rgb(255 255 255);
+}
+
+
+:root {
+  --primary-red: #A40011;
+  --deep-red: #50000B;
+  --text-gray: #888;
 }
